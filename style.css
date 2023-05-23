@@ -1,0 +1,26 @@
+a{
+    text-decoration:none; 
+    color: black;
+
+}
+h1{
+    font-family: algerian;
+
+}
+h2{
+    font-family: cursive;
+}
+
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+h3{
+    font-family: chiller;
+    font-size: larger;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
